@@ -1,13 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### `yarn`
-
-Install Dependency
 
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn`
+
+Install Dependency
 
 ### `yarn start`
 
